@@ -1,1 +1,1 @@
-export default (async () => {}).constructor
+export default () => (async () => {}).constructor

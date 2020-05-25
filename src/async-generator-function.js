@@ -1,1 +1,1 @@
-export default (async function* () {}).constructor
+export default () => (async function* () {}).constructor

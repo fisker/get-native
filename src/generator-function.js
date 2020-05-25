@@ -1,1 +1,1 @@
-export default (function* () {}).constructor
+export default () => (function* () {}).constructor

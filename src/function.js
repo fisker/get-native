@@ -1,1 +1,1 @@
-export default (() => {}).constructor
+export default () => (() => {}).constructor
